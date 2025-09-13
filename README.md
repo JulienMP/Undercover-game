@@ -31,34 +31,6 @@ Undercover is a social deduction game where players receive secret words and mus
 - 📱 **Responsive Design**: Beautiful gradient UI with smooth animations
 - ⚙️ **Customizable Setup**: Adjust roles or use random configuration
 
-## Installation
-
-### Prerequisites
-- Flutter SDK (3.0.0 or higher)
-- Dart SDK
-- Android Studio / VS Code with Flutter extensions
-
-### Setup Commands
-
-1. **Create the project:**
-```bash
-flutter create undercover_game
-cd undercover_game
-```
-
-2. **Add dependencies:**
-```bash
-flutter pub add provider
-flutter pub add shared_preferences  
-flutter pub add auto_size_text
-```
-
-3. **Replace the default files with the provided code**
-
-4. **Run the app:**
-```bash
-flutter run
-```
 
 ## Project Structure
 
